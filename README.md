@@ -12,6 +12,3 @@ tensorflow==1.15.0
 torch==1.7.1
 dlib==19.8.1
  
-
-
-
