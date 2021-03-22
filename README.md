@@ -6,7 +6,7 @@ with this detection one sound indication also there.
 you can download dataset from here for running this project.
 https://drive.google.com/drive/folders/1wzDkrLyfZP-Sos54aig8BakcJpG4I1UG?usp=sharing
 
-for Run this code you want following requrements.
+for Run this code you want following requirements.
 python==3.6.7
 tensorflow==1.15.0
 torch==1.7.1
